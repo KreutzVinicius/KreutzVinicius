@@ -1,8 +1,6 @@
 
 <h1> <strong> Hi </strong> <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
-<h2> Vinicius here, im a CS student at UDESC
-<h2> Currently working for Atena Solutions
-
+<h2> Vinicius here, im a CS student at UDESC </h2>
 
 <div>
 <a href="https://github.com/KreutzVinicius">
