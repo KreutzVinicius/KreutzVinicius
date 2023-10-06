@@ -21,7 +21,7 @@ jobs:
         run: npm install canvas
     
       - name: Jobs to update datas
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           packages: canvas
           github_user_name: KreutzVinicius
